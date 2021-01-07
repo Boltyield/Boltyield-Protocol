@@ -3,7 +3,8 @@
 
 
 
-<p align="center"><a href="https://boltyield.org"><img src="https://pbs.twimg.com/profile_banners/1302614813605072897/1601775721/1500x500" title="Boltyield" alt="Boltyield"></a>
+<p align="center"><a href="https://boltyield.org"><img src="https://github.com/Boltyield/Boltyield-Protocol/blob/main/BYD.png" title="Boltyield" alt="Boltyield"></a>
+ 
 </p>
 
 
