@@ -38,7 +38,7 @@
 - 50,000  BYD to iquidity Locked on Uniswap LP 6 months
 - 150,000 BYD to staking and liquidity reward 
 
-- ⚜️Contract: `0x42fF18F336f0bBd3Cc2b292dCa56E374ED1292bb`
+- ⚜️Contract: `https://github.com/Boltyield/Boltyield-Protocol/blob/main/BYD.png`
 - ⚜️Contract Etherscan:  https://etherscan.io/token/0x42fF18F336f0bBd3Cc2b292dCa56E374ED1292bb
 -------------
 - ### Name: BOlTYIELD ⚡
@@ -48,8 +48,8 @@
 - Current Supply: 200,000+ BYD (3/01/2021)
 - Must be minted via **staking BYD**
 
-- ⚜️Contract: `0x538b4b507d57bf9ebd8847ec395b7b061c150181`
-- ⚜️Contract Etherscan::  https://etherscan.io/token/0x538b4b507d57bf9ebd8847ec395b7b061c150181  
+- ⚜️Contract: `0x42fF18F336f0bBd3Cc2b292dCa56E374ED1292bb`
+- ⚜️Contract Etherscan::  https://etherscan.io/token/0x42fF18F336f0bBd3Cc2b292dCa56E374ED1292bb 
 
 ------------
 
