@@ -8,7 +8,7 @@
 </p>
 
 
-## Boltyield :bolt: is a
+## Boltyield :high voltage: is a
 
 
 - A Governance Token represented by Boltyield (BYD) that turns individual traders into a collective & decentralized Parliament.:hammer:
